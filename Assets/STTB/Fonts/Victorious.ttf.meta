@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a91dd6cbb6fbb0042b29590ac3f078ee
+timeCreated: 1508324554
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Victorious
+  fontNames:
+  - Victorious
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

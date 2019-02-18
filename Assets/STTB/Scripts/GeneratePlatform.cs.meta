@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 44c8563781c4993409b3ede040889677
+timeCreated: 1506418931
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - control: {instanceID: 0}
+  - platform: {fileID: 145360, guid: dc99dfb7b265ee541ab16d1199679fb5, type: 2}
+  - platformParent: {instanceID: 0}
+  - defaultMat: {fileID: 2100000, guid: 2d2d1c31d09a44feaa09e984defb75e3, type: 2}
+  - collectablePrefab: {fileID: 1556716386099702, guid: bd226d6e069d89b449f8bf4f122b0513,
+      type: 2}
+  - TitleText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
